@@ -1,3 +1,3 @@
-BOT_TOKEN = "7417851265:AAG8snZGZ8dcbxq3Tr_XeWUgVZvhB14gzBY"
-ADMIN_IDS = {6749720285}         # telegram ID lar to‘plami
-CHANNEL_ID =  -1002789705380    # majburiy kanal (xohlasangiz)
+BOT_TOKEN = "bot fatherdan token olasan "
+ADMIN_IDS = {get chat my id degan botdan ozini id olasan }         # telegram ID lar to‘plami
+CHANNEL_ID =  kanal xolasang qosh     # majburiy kanal (xohlasangiz)
