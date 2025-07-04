@@ -1,0 +1,5 @@
+# TODO: implement logic
+aiogram==3.4.1
+aiosqlite
+aiocron              # kechki xabar uchun
+aiohttp              # API/parsing
